@@ -1,0 +1,31 @@
+#top {
+    text-align: center;
+    color: #06283D;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding: 3%;
+    background-color: #1A4D2E;
+}
+
+#mid {
+    text-align: center;
+    background-color: maroon;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding: 3%;
+}
+
+#insultMeme {
+    align-self: center;
+    width: 600px;
+    height: 500px;
+}
+
+#bottom {
+    text-align: center;
+    background-color: #2E0249;
+    color: maroon;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding: 3%;
+}
